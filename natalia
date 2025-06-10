@@ -1,0 +1,38 @@
+# Mini-Projeto - AV2 (2º Bimestre)
+
+Este projeto foi desenvolvido como parte da avaliação da disciplina de Desenvolvimento de Software para Web (2º bimestre), com foco em:
+
+- Componentização com **props**
+- Uso de **Context API** para gerenciamento de favoritos
+- Estrutura com **React Router**
+- Estilização com **Tailwind CSS**
+- Deploy em ambiente online
+
+---
+
+## 🚀 Deploy
+
+A aplicação está publicada no Vercel e pode ser acessada aqui:
+
+👉 [https://av2-natalia-halverson-2bimestre.vercel.app](https://av2-natalia-halverson-2bimestre.vercel.app)
+
+---
+
+## ⚙️ Funcionalidades
+
+- Página inicial com números interativos
+- Sistema de **favoritar/desfavoritar**
+- Navegação entre páginas
+- Responsividade e organização visual
+
+---
+
+## 🧑‍💻 Tecnologias utilizadas
+
+- React + Vite
+- React Router DOM
+- Context API
+- Tailwind CSS
+- Axios
+
+
